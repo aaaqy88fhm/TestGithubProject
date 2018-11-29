@@ -11,5 +11,6 @@ public class DeptController {
         System.out.println("测试github提交1111...");
         System.out.println("11111");
         System.out.println("1212123");
+        System.out.println("22222");
     }
 }
