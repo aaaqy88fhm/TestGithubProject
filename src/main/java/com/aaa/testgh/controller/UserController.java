@@ -8,6 +8,7 @@ package com.aaa.testgh.controller;
  */
 public class UserController {
     public static void main(String[] args) {
-
+        System.out.println("fhm20181128");
+        System.out.println("201510916228");
     }
 }
