@@ -7,4 +7,7 @@ package com.aaa.testgh.controller;
  * createTime:2018-11-29 09:42
  */
 public class EmpController {
+    public static void main(String[] args) {
+        System.out.println("员工。11122221。");
+    }
 }
